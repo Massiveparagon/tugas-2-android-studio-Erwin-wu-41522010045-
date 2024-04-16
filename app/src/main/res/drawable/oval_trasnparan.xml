@@ -1,0 +1,7 @@
+<shape android:shape="rectangle"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:alpha="0.5"> <!-- Tingkat transparansi, nilai 1 adalah tidak transparan, 0 adalah benar-benar transparan -->
+    <solid android:drawable="@drawable/tombollogin"/> <!-- Menggunakan gambar sebagai latar belakang -->
+    <corners android:radius="60dp"/> <!-- Radius sudut yang besar sehingga membuatnya terlihat bulat -->
+</shape>
+

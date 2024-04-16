@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">tugas 2</string>
+    <string name="kebaikan">KEBAIKAN</string>
+    <string name="berawal">BERAWAL</string>
+    <string name="dari_sini">Dari sini</string>
+    <string name="tepercaya_lebih">tepercaya lebih </string>
+    <string name="dari_45_tahun">Dari 45 Tahun</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="todo">TODO</string>
+    <string name="kebaikan_alam">kebaikan alam</string>
+    <string name="kebaikan_hidup">kebaikan hidup</string>
+</resources>
